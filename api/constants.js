@@ -3,9 +3,9 @@ export const startMessage = `👋 Halo kawan, UserName !
 Selamat datang di *Auto Emoji Reaction Bot 🎉*, bot yang akan membuat obrolanmu semakin berwarna dengan sedikit kebahagiaan!
 
 Daftar emoji: /reactions
-Donasi: /donate';
+Donasi: /donate'
 
-export const donateMessage = `🙏 Untuk ngasih donat bisa pakai QRIS di t.me/BeriDukungan`;
+export const donateMessage = `🙏 Untuk ngasih donat bisa pakai QRIS di t.me/BeriDukungan`
 
 export const htmlContent = `
 <!DOCTYPE html>
