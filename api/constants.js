@@ -5,8 +5,7 @@ Selamat datang di *Auto Emoji Reaction Bot 🎉*, bot yang akan membuat obrolanm
 Daftar emoji: /reactions
 Donasi: /donate'
 
-export const donateMessage = `🙏 Untuk ngasih donat bisa pakai QRIS di t.me/BeriDukungan`
-
+export const donateMessage = `🙏 Support Auto Reaction Bot ✨ and help us stay online and continue to improve! ✨ Your donations keep our services live and enable us to bring you new features and enhancements. Every star makes a difference! Thank you! 🌟🚀`
 export const htmlContent = `
 <!DOCTYPE html>
 <html lang="en">
