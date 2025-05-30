@@ -55,7 +55,7 @@ export default {
 						{"text": "➕ Add to Group ➕", "url": `https://t.me/${botUsername}?startgroup=botstart`},
 					],
                     [
-                        { "text": "💝 Support Us - Donate 🤝", "url": "https://t.me/MovUpBot?start=donate" }
+                        { "text": "💝 Support Us - Donate 🤝", "url": "https://t.me/reaksirobot?start=donate" }
                     ]
 				]
 				);
@@ -66,7 +66,7 @@ export default {
 			} else if (data.message && text === '/donate' || text === '/start donate') {
                 await botApi.sendInvoice(
                     chatId,
-                    "Donate to Auto Reaction Bot ✨",
+                    "Donate to ReaksiRobot ✨",
                     donateMessage,
                     '{}',
                     '',
